@@ -1,8 +1,8 @@
 {
-  "name": "YOURNAMEHERE-design-system",
+  "name": "<%= projectName %>",
   "version": "0.0.1",
-  "repository": "git@github.com:sparkbox/YOURNAMEHERE-design-system.git",
-  "author": "Kasey Bonifacio <kasey@heysparkbox.com>",
+  "repository": "git@github.com:sparkbox/<%= projectName %>-design-system.git",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "prestart": "run-p clean node-version",
